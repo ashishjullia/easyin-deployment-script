@@ -2,7 +2,7 @@
 <blockquote>
 <p class="has-line-data" data-line-start="1" data-line-end="2">Your one key solution.</p>
 </blockquote>
-![HomePage](https://github.com/ashishjullia/easyin-deployment-script/blob/main/Images/Website/Homepage.png)
+![Home Page](https://github.com/ashishjullia/easyin-deployment-script/blob/main/Images/Website/Homepage.png)
 <ul>
 <li class="has-line-data" data-line-start="3" data-line-end="4"><a href="https://github.com/ashishjullia/easyin-backend-NodeJS">Backend</a> - API</li>
 <li class="has-line-data" data-line-start="4" data-line-end="5"><a href="https://github.com/ashishjullia/easyin-frontend-ReactJS">Frontend</a> - Website</li>
