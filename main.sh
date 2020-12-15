@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Env variables
-export DB=''
+DB=''
 
 # Update system
 sudo apt update -y
@@ -20,7 +20,7 @@ sudo chmod +x /usr/local/bin/docker-compose
 # Cloning the repositories
 git clone https://github.com/ashishjullia/easyin-backend-NodeJS.git
 sudo touch ./easyin-backend-NodeJS/.env
-envsubst '${DB}' > "./easyin-backend-NodeJS/.env"
+sudo echo $DB > "./easyin-backend-NodeJS/.env"
 
 git clone https://github.com/ashishjullia/easyin-frontend-ReactJS.git
 
