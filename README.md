@@ -40,4 +40,4 @@ frontend   docker-entrypoint.sh npm r ...   Up      <span class="hljs-number">0.
 <li class="has-line-data" data-line-start="3" data-line-end="4"><a href="https://youtu.be/grsyryDmIDI">Demo Video</a> - Demonstration</li>
 </ul>
 <p class="has-line-data" data-line-start="46" data-line-end="47"><strong>Yeah!</strong></p>
-![HomePage](http://i.imgur.com/i1pQlLa.png)
+![Home Page](http://i.imgur.com/i1pQlLa.png)
