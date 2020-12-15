@@ -21,8 +21,6 @@ $ <span class="hljs-built_in">cd</span> easyin-deployment-script
 └── [-rwxrwxr-x]  ./main.sh
 <span class="hljs-number">0</span> directories, <span class="hljs-number">4</span> files
 </code></pre>
-<p class="has-line-data" data-line-start="22" data-line-end="24">And of course Dillinger itself is open source with a [public repository][dill]<br>
-on GitHub.</p>
 <h3 class="code-line" data-line-start=25 data-line-end=26 ><a id="Spin_up_the_project_25"></a>Spin up the project</h3>
 <p class="has-line-data" data-line-start="27" data-line-end="28">Before that, sure you edit the “.env” file and place your “DB=&lt;URL&gt;” for the application to connect to database.</p>
 <p class="has-line-data" data-line-start="29" data-line-end="30">The following will create docker containers for the “Backend” and “Frontend”.</p>
