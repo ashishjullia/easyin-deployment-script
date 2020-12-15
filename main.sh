@@ -19,7 +19,7 @@ sudo chmod +x /usr/local/bin/docker-compose
 
 # Cloning the repositories
 git clone https://github.com/ashishjullia/easyin-backend-NodeJS.git
-touch ./easyin-backend-NodeJS/.env
+sudo touch ./easyin-backend-NodeJS/.env
 envsubst '${DB}' > "./easyin-backend-NodeJS/.env"
 
 git clone https://github.com/ashishjullia/easyin-frontend-ReactJS.git
