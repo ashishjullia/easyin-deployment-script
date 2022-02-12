@@ -4,31 +4,31 @@
 </blockquote>
 <img src="http://i.imgur.com/i1pQlLa.png"/>
 <ul>
-<li class="has-line-data" data-line-start="3" data-line-end="4"><a href="https://github.com/ashishjullia/easyin-backend-NodeJS">Backend</a> - API</li>
-<li class="has-line-data" data-line-start="4" data-line-end="5"><a href="https://github.com/ashishjullia/easyin-frontend-ReactJS">Frontend</a> - Website</li>
-<li class="has-line-data" data-line-start="5" data-line-end="7"><a href="https://github.com/ashishjullia/easyin-mobileapp">App</a> - Mobile Application</li>
-</ul>
-</ul>
 <li>
-• Single click solution for authenticating on to any website having the API integrated, having 
+Single click solution for authenticating on to any website having the API integrated, having 
 mobile application installed on the device and using the available authentication mechanism for 
 logging in.
 </li>
 <li>
-• NodeJS is used to develop the Back-end API itself and MongoDB for document type data storage 
+NodeJS is used to develop the Back-end API itself and MongoDB for document type data storage 
 in Object data type structure.
 </li>
 <li>
-• ReactJS for implementing the Front-end of the website.
+ReactJS for implementing the Front-end of the website.
 </li>
 <li>
-• Android mobile application is developed using Kotlin along with MongoDB for storage.
+Android mobile application is developed using Kotlin along with MongoDB for storage.
 </li>
 <li>
-• A Bash script is written using the “docker” and “docker compose” to automate the deployment 
+A Bash script is written using the “docker” and “docker compose” to automate the deployment 
 process.
 </li>
-</ul?
+</ul>
+<ul>
+<li class="has-line-data" data-line-start="3" data-line-end="4"><a href="https://github.com/ashishjullia/easyin-backend-NodeJS">Backend</a> - API</li>
+<li class="has-line-data" data-line-start="4" data-line-end="5"><a href="https://github.com/ashishjullia/easyin-frontend-ReactJS">Frontend</a> - Website</li>
+<li class="has-line-data" data-line-start="5" data-line-end="7"><a href="https://github.com/ashishjullia/easyin-mobileapp">App</a> - Mobile Application</li>
+</ul>
 <h3 class="code-line" data-line-start=7 data-line-end=8 ><a id="Clone_the_repository_7"></a>Clone the repository</h3>
 <pre><code class="has-line-data" data-line-start="9" data-line-end="12" class="language-sh">$ git <span class="hljs-built_in">clone</span> https://github.com/ashishjullia/easyin-deployment-script.git
 $ <span class="hljs-built_in">cd</span> easyin-deployment-script
